@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1645335544 source:c:\users\mbaus\desktop\shee\county library system\main.c
+	<stdio.h>
+	<stdlib.h>
+
